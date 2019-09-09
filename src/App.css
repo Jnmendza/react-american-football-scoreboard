@@ -13,7 +13,18 @@
   padding: 5rem;
   border: 4px solid #aaaaaa;
 }
-
+.title-container {
+  width: 60%;
+  border: 3px solid white;
+  border-radius: 0.5rem;
+  margin: 0 auto 30px auto;
+  background-color: gold;
+}
+.title {
+  padding: 10px 0;
+  text-align: center;
+  color: black;
+}
 .topRow {
   display: flex;
   justify-content: space-around;
